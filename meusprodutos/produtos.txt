@@ -1,0 +1,6 @@
+001234;Leite Integral 1L;120;20/08/2025
+005678;Arroz Branco Tipo 1 - 5Kg;85;15/12/2026
+009101;Iogurte Natural 170g;200;05/07/2025
+002345;Feijão Carioca 1Kg;60;10/11/2025
+003456;Óleo de Soja 900ml;150;25/04/2026
+004567;Biscoito Recheado Chocolate 140g;90;30/01/2026
